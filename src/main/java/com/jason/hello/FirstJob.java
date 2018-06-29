@@ -1,4 +1,4 @@
-package com.jason;
+package com.jason.hello;
 
 /**
  * @Author : jasonzii @Author
@@ -8,7 +8,6 @@ package com.jason;
 
 import org.apache.log4j.Logger;
 import org.quartz.*;
-import sun.rmi.runtime.Log;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
